@@ -14,6 +14,10 @@ body{
     
 }
 
+.buttons{
+    display: flex;
+    gap: 10px;
+}
 
 #wrapper{
     background-color: #eee;
@@ -49,6 +53,15 @@ body{
 #movie-list ul li:hover{
    border-left: #9361bf 2px solid;
    background: #f4f4f4;
+}
+
+.edit{
+    background-color: #5fb45c;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 .delete{
