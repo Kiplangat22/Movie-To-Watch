@@ -29,7 +29,7 @@ body{
 }
 
 #page-banner{
-    background-color: #df5b3f;
+    background-color: #857dcf;
     padding: 10px 0;
     text-align: center;
     color: #fff;
@@ -78,7 +78,7 @@ body{
 }
 
 #add-movie{
-    border: 1px solid #e40c0c;
+    border: none;
     width: 500px;
     margin: 0 auto;
 }
